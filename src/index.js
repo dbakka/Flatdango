@@ -1,5 +1,5 @@
 // Constants
-const BASE_URL = '/api'; // This will be relative to your deployed Vercel app
+const BASE_URL = 'http://localhost:3000'; // This will be relative to your deployed Vercel app
 const FILMS_URL = `${BASE_URL}/films`;
 const TICKETS_URL = `${BASE_URL}/tickets`;
 
