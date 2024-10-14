@@ -6,3 +6,5 @@ node_modules/
 # Ignore any log files
 *.log
 " > .gitignore
+
+
